@@ -1,52 +1,40 @@
-# ✊🖐✌ Rock-Paper-Scissors Game
+# 💱 Currency Converter
 
-A simple and interactive Rock-Paper-Scissors game built with HTML, CSS, and JavaScript. It features score tracking, dark/light mode toggle, animations, and stylish feedback for wins, losses, and draws.
-
----
+## A simple and interactive currency converter web app that allows users to convert from one currency to another using real-time exchange rates. Built using HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
 
-👉 [https://rock-paper-scissors-partha.netlify.app/](https://rock-paper-scissors-partha.netlify.app/)
+👉 [https://currencyconverter-partha.netlify.app/](https://currencyconverter-partha.netlify.app/)
 
 ---
 
 ## 📸 Screenshots
 
-| Screenshots                            |
-| -------------------------------------- |
-| ![Screenshots](./image/Screenshot.png) |
+| Screenshots                      |
+| -------------------------------- |
+| ![Screenshots](./Screenshot.png) |
 
 ---
 
-## 🔥 Features
+## 🚀 Features
 
-- 🧑‍🤝‍🧑 Player vs Computer logic
-- 🧠 Random computer move generation
-- 📊 Live score tracking for user and computer
-- 🌗 Light/Dark theme toggle
-- ⚡ Zoom animation on click
-- ✨ Glow effect on winner
-- 🔄 Reset button to clear scores
+- 🌍 Supports multiple currencies with country flags
+- 🔄 Swap currencies with a single click
+- 💵 Real-time exchange rates using [ExchangeRate-API](https://www.exchangerate-api.com/)
+- 🔔 Error handling for invalid inputs
+- ⚡ Stylish and responsive UI
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-
+- **HTML**
+- **CSS**
+- **JavaScript (Vanilla)**
+- **ExchangeRate-API** for live currency rates
+- **Flags API** for displaying country flags
 ---
 
-## 🎮 How to Play
-
-Click on Rock, Paper, or Scissors to make your move.
-The computer will randomly choose its move.
-The winner of the round is highlighted and the score updates accordingly.
-Press the Reset button to reset scores.
-Use the 🌗 mode toggle icon to switch between light and dark themes.
-
----
 
 ## 🧪 Getting Started
 
@@ -55,7 +43,7 @@ Use the 🌗 mode toggle icon to switch between light and dark themes.
 Clone the repo :
 
 ```bash
-git clone https://github.com/PARTHA-PATTANAYAK-02/Rock_Paper_Scissor.git
+git clone https://github.com/PARTHA-PATTANAYAK-02/Currency_Converter.git
 ```
 
 ---
@@ -64,7 +52,7 @@ git clone https://github.com/PARTHA-PATTANAYAK-02/Rock_Paper_Scissor.git
 
 ## This project can be deployed easily using:
 
-- ### 🔗 [netlify](https://rock-paper-scissors-partha.netlify.app/)
+- ### 🔗 [netlify](https://currencyconverter-partha.netlify.app/)
 
 ## ✍️ Author
 
